@@ -11,7 +11,7 @@
  
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ### _Cara membuat akun git_
+### _Cara membuat akun git_
 - Disini anda harus membuat akun git terlebih dahulu  untuk membuat repository server bukalah link tersebut *http://github.com*
 
 -  Setelah selesai mengisi user name dan user email anda klik daftar akun GitHub(nanti ada gambar hewan terbalik disitu anda cuma membenarkan posisi gambar tersebut untuk verivikasi), lalu next select a plan dan pilih yang gratisan saja :rofl: :trollface:
@@ -21,7 +21,7 @@
 
 -  Kemudian  anda akan dialihkan Gmail untuk memverifikasi email, klik Verivy email address
 
- ### _Membuat repositori baru_
+### _Membuat repositori baru_
 
 - Langkah selanjutnya nanti anda akan dialihkan ke tab baru untuk membuat repositori baru, isi susuai inspirasi anda setelah selesai klik buat repositori. 
 
@@ -59,8 +59,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
  ##### _Cara penggunaan git dengan perintah dasar  git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)_
 
 - Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/ramdhansy12/Gitlatihan1.git
-   ![image](https://user-images.githubusercontent.com/56957725/67558206-c2d1ae80-f740-11e9-821b-6116ba38d739.png)
-
+   
  ##### _Cara penggunaan git dengan perintah dasar git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository_
 
 - Untuk  mengirim perubahan pada local repository ke server gunakan perintah “git push -u origin master”. Ingat pada langkah ini kita harus memasukan usernam dan pasword gethub.
