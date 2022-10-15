@@ -2,19 +2,20 @@
 ## Cara penginstalan GIT
 
  - Pertama anda harus mendownload Aplikasi  Git, buka website resminya Git  di **git-scm.com** .
- 
+ ![Images](https://user-images.githubusercontent.com/115775237/195970717-c95c3898-db95-442c-aab5-f85adc7466f3.png)
 
 - Lalu klik next simpan file lokasi instal di C:\ProgramFiles\Git(sesuai keinginan anda) , lalu di next saja semua sampai ke step install, TUNGGU SAMPAI SELESAI.
  
 
-- Setelah melakukan penginstalan, buka git cmd  untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah **git --version.**  Saya memakai versi 2.23.0.windows.1
+- Setelah melakukan penginstalan, buka git cmd  untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah **git --version.** 
  
  
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### _Cara membuat akun git_
 - Disini anda harus membuat akun git terlebih dahulu  untuk membuat repository server bukalah link tersebut *http://github.com*
+![image](https://user-images.githubusercontent.com/115775237/195970901-b5ff1bcb-5be0-43e3-97ff-bfac0a2bae84.png)
 
--  Setelah selesai mengisi user name dan user email anda klik daftar akun GitHub(nanti ada gambar hewan terbalik disitu anda cuma membenarkan posisi gambar tersebut untuk verivikasi), lalu next select a plan dan pilih yang gratisan saja :rofl: :trollface:
+-  Setelah selesai mengisi user name dan user email anda klik daftar akun GitHub, lalu next select a plan dan pilih yang gratis
 
 
 - Pada langka selanjutnya pilih sesuai keinginan anda atau boleh langsung diskip saja.
@@ -73,4 +74,5 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 #### **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas**. 
 
 #### **Selanjutnya klik write, jika sudah selesai klik saja commit change**
+![image](https://user-images.githubusercontent.com/115775237/195971052-aa357d16-b3f4-4749-9d7d-131816fa03ff.png)
 
