@@ -1,6 +1,6 @@
-Nama   : Tiara Putri
-NIM    : 312210064
-kleas  : TI.22.A1
+# Nama   : Tiara Putri
+# NIM    : 312210064
+# kleas  : TI.22.A1
 
 **Disini saya akan menjelaskan cara penggunaan Git yang kita perlukan aialah**  *Applikasi git , akun git*. Sebelum itu saya akan kasih tutorial cara penginstalan **GIT**.
 ## Cara penginstalan GIT
